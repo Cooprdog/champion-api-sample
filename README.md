@@ -1,3 +1,5 @@
+https://github.com/Cooprdog/champion-api-sample#status-codes-and-errors
+
 # Resource Description: Find_champion
 ### Get all the champion data
 
