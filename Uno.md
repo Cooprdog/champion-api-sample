@@ -1,0 +1,53 @@
+[Resource Description](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#resource-description-find_champion)
+
+[Sub Resources](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#sub-resources)
+
+[Description](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#description)
+
+[URL](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#url)
+
+[Query Parameters](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#query-parameters)
+
+[Headers](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#headers)
+
+[Post or Put](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#post-or-put-bodyt)
+
+[Sample Request](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#sample-request)
+
+[Response](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#response)
+
+[Sample response](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#sample-response)
+
+[Status Codes & Errors](https://github.com/Cooprdog/champion-api-sample#status-codes-and-errors)
+
+# Resource Description: Find_champion
+### Get all the champion data
+
+# Sub Resources:
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; name   &nbsp;&nbsp;&nbsp;role  &nbsp;&nbsp;&nbsp;  orign
+
+# Description
+### Querying this endpoint will return all the champions in the database as well as their role and their origin
+
+# URL
+### {Get} http(s)://Riotgames.com/find_champion
+
+## Query Parameters
+
+
+| Element       | Description | Type                   |
+| ------------  | ----------  | -----------------------|        
+| Champion_Data | Top Level          | Champion_Data_Object |
+|   name        | champion name      | string               |
+|   role        | champion position  | string               |
+|   origin      | origin             | string               |
+
+## Headers
+
+| Header Name                    | Description        |
+|--------------------------------|--------------------|
+| Accept: application/json       |sets data format    |
+| Content-type: application/json |sets data format    | 
+
+## POST or PUT Body 
+This is not applicable
