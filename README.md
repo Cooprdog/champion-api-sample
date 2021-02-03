@@ -104,6 +104,7 @@ champion_data = [
 ]
 ```
 
+
 ## Status Codes and Errors
 
 ### The following table lists HTTP status codes
