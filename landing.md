@@ -1,9 +1,3 @@
----
-title: Landing Page
-layout: template
-filename: index.md
---- 
-
 # Marcus D. Russell
 
 # API Take Home Test
