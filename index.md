@@ -1,7 +1,7 @@
 ---
 title: Landing Page
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: index.md
 --- 
 
 # Marcus D. Russell
