@@ -1,9 +1,3 @@
----
-title: PAGE TITLE HERE
-layout: template
-filename: NAME OF THIS .md FILE HERE
---- 
-
 [Resource Description](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#resource-description-find_champion)
 
 [Sub Resources](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#sub-resources)
