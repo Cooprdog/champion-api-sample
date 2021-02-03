@@ -1,16 +1,24 @@
+[Resource Description](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#resource-description-find_champion)
 
+[Sub Resources](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#sub-resources)
 
+[Description](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#description)
 
+[URL](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#url)
 
+[Query Parameters](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#query-parameters)
 
+[Headers](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#headers)
 
+[Post or Put](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#post-or-put-bodyt)
 
+[Sample Request](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#sample-request)
 
+[Response](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#response)
 
+[Sample response](https://github.com/Cooprdog/champion-api-sample/blob/main/README.md#sample-response)
 
 [Status Codes & Errors](https://github.com/Cooprdog/champion-api-sample#status-codes-and-errors)
-
-https://github.com/Cooprdog/champion-api-sample#status-codes-and-errors
 
 # Resource Description: Find_champion
 ### Get all the champion data
