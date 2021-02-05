@@ -112,7 +112,7 @@ champion_data = [
 | 200                  | Ok                       | 
 | 400                  | Bad request              | 
 | 401                  | Unauthorized             | 
-| 403                  | Forbidden               | 
+| 403                  | Forbidden                | 
 | 404                  | Data not found           | 
 | 405                  | Method not allowed       | 
 | 415                  | Unsupported media type   | 
