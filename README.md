@@ -30,7 +30,7 @@
 ### Querying this endpoint will return all the champions in the database as well as their role and their origin
 
 # URL
-### {Get} http(s)://Riotgames.com/find_champion
+### {GET} http(s)://riotgames.com/find_champion
 
 ## Query Parameters
 
@@ -55,7 +55,7 @@ This is not applicable
 
 ## sample request
 
-{GET} http(s)://Riotgames.com/find_champion
+{GET} http(s)://riotgames.com/find_champion
 
 Accept: application/json
 
@@ -109,10 +109,10 @@ champion_data = [
 
 | HTTP Status Code     |  Description             | 
 |----------------------|--------------------------|
-| 200                  | ok                       | 
+| 200                  | Ok                       | 
 | 400                  | Bad request              | 
-| 401                  | unauthorized             | 
-| 403                  |  Forbidden               | 
+| 401                  | Unauthorized             | 
+| 403                  | Forbidden               | 
 | 404                  | Data not found           | 
 | 405                  | Method not allowed       | 
 | 415                  | Unsupported media type   | 
